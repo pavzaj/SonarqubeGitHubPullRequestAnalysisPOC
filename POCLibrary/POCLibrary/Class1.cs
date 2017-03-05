@@ -12,5 +12,8 @@ namespace POCLibrary
         {
             var someUnusedVar = 0;
         }
+
+        public int func()
+        { return 1; }
     }
 }
