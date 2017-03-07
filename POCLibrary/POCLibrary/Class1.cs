@@ -11,6 +11,7 @@ namespace POCLibrary
         public Class1()
         {
             var someUnusedVar = 0;
+            var someUnusedVar2 = 0;
         }
 
         public int func()
